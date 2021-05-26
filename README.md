@@ -1,5 +1,5 @@
 # Two-Dimensional-Array-Manipulation
-Two dimensional array usage example. 
+A two dimensional array usage example. 
 
 Reads a file and loads data into a 2D array. The 2D array is used to produce a summary report. 
 The report contains:
